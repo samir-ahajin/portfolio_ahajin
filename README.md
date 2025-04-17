@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# portfolio_ahajin
 Samir Ahajin's Portfolio
 =======
 # React + TypeScript + Vite
